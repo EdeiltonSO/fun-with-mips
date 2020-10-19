@@ -21,11 +21,11 @@ gcc <filename>.c
 
 Observação:
 
-Se quiser salvar o executável com um nome diferente, complemente o comando do passo 3 com
+Se quiser salvar o executável com um nome diferente, complemente o comando do passo 3 com:
 ```bash
 -o <new_filename>
 ```
-com isso, o passo 4 também muda.
+Ah; com isso, o passo 4 também muda.
 
 ## E os arquivos MIPS? Como posso executar?
 
@@ -37,4 +37,5 @@ com isso, o passo 4 também muda.
 Observações:
 
 A. Para executar uma instrução por vez, vá em Run > Step (ou tecle F7 a cada vez);
+
 B. Caso seja necessário reiniciar os registradores na execução passo-a-passo, vá em Run > Reset (ou tecle F12);
