@@ -29,13 +29,13 @@ Ah; com isso, o passo 4 também muda.
 
 ## E os arquivos MIPS? Como posso executar?
 
-1. Baixe e instale o [MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/)
+1. Baixe e instale o [MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/);
 2. Abra o arquivo .asm (Ctrl+O);
 3. Vá em Run > Assemble (ou tecle F3);
-4. Vá em Run > Go (ou tecle F5);
+4. Vá em Run > Go (ou tecle F5).
 
 Observações:
 
 A. Para executar uma instrução por vez, vá em Run > Step (ou tecle F7 a cada vez);
 
-B. Caso seja necessário reiniciar os registradores na execução passo-a-passo, vá em Run > Reset (ou tecle F12);
+B. Caso seja necessário reiniciar os registradores na execução passo-a-passo, vá em Run > Reset (ou tecle F12).
