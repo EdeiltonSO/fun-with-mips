@@ -30,7 +30,7 @@ Ah; com isso, o passo 4 também muda.
 ## E os arquivos MIPS? Como posso executar?
 
 1. Baixe e instale o [MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/);
-2. Abra o arquivo .asm (Ctrl+O);
+2. Abra o arquivo .asm (ou tecle Ctrl+O);
 3. Vá em Run > Assemble (ou tecle F3);
 4. Vá em Run > Go (ou tecle F5).
 
