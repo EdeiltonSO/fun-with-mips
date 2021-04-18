@@ -2,7 +2,7 @@
 
 ## O que é isso?
 
-São exercícios de tradução de código C para o assembler MIPS, da disciplina de Organização e Arquitetura de Computadores I. Cada arquivo em C está associado à sua tradução de acordo com o nome do arquivo.
+São exercícios de tradução de código C para assembly MIPS, da disciplina de Organização e Arquitetura de Computadores I. Cada arquivo em C está associado à sua tradução de acordo com o nome do arquivo.
 
 Para abrir tanto os arquivos .c quanto os .asm, é possível utilizar qualquer editor de código — como o [Visual Studio Code](https://code.visualstudio.com/). Para compilar, seguem as instruções:
 
